@@ -29,16 +29,3 @@ The commonly used formats are YAML, JSON, CSV, and XML.
 ## Tools
 YAML Validator: https://onlineyamltools.com/validate-yaml
 YAML to JSON Converter: https://onlineyamltools.com/convert-yaml-to-json
-
-key-value pairs
-
-| S. No.      | Topic       |
-| ----------- | ----------- |
-| 1           | Title       |
-| 2           | Text        |
-| 3           | Text        |
-| 4           | Text        |
-| 5           | Text        |
-| 6           | Text        |
-| 7           | Text        |
-| 8           | Text        |
