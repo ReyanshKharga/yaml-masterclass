@@ -1,0 +1,21 @@
+---
+# Anchors(&)
+executeCode:
+  steps: &execute
+    compile: true
+    run: true
+
+
+# Alias(*)
+executeJavaCode:
+  steps: *execute
+  name: JavaExecution # Extension
+
+
+# Use <<: along with alias(*) to override the mappings
+executePythonCode:
+  steps: 
+    <<: *execute
+    compile: false # Override
+    name: PythonExecution # Extension
+    

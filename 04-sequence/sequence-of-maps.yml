@@ -1,0 +1,15 @@
+---
+students:
+  - name: Reyansh
+    age: 24
+    weight: 65.8
+    country: India
+    isPresent: true
+  - name: John
+    age: 28
+    country: USA
+    isPresent: false
+
+---
+# Another way to represent List
+students: [{name: Reyansh, age: 24, weight: 65.8, country: India, isPresent: true}, {name: John, age: 28, country: USA, isPresent: false}]

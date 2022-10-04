@@ -1,0 +1,9 @@
+{
+    "students": [
+        {
+            "name": "Reyansh",
+            "roll": 21,
+            "GPA": 4
+        }
+    ]
+}

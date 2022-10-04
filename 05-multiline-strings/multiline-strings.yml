@@ -1,0 +1,29 @@
+data: |
+  This is just a random string
+  broken into multiple lines.
+  These lines be interpreted by YAML
+  as a single line with line breaks.
+
+
+---
+data: |-
+  This is just a random string
+  broken into multiple lines.
+  These lines be interpreted by YAML
+  as a single line with line breaks.
+
+
+---
+data: >
+  This is just a random string
+  broken into multiple lines.
+  These lines will be interpreted by YAML
+  as single line without line breaks.
+
+
+---
+data: >-
+  This is just a random string
+  broken into multiple lines.
+  These lines will be interpreted by YAML
+  as single line without line breaks.

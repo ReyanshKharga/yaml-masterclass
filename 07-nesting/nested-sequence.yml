@@ -1,0 +1,14 @@
+---
+Employees:
+  - name: John
+    age: 28
+    projects:
+      - Kubernetes
+      - Azure
+      - AWS
+  - name: Adam
+    age: 30
+    projects:
+      - Python
+      - Java
+      - Node.js

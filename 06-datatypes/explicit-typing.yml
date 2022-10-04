@@ -1,0 +1,17 @@
+types:
+  myInteger: !!int 4
+  myString: !!str Reyansh
+  myBoolean: !!bool true
+  mySequence: !!seq
+    - item1
+    - item2
+    - item3
+  mySet: !!set {apple, mango, banana}
+  myMap: !!map
+    name: Reyansh
+    age: 25
+    country: India
+  infinity: .inf
+  notANumber: .nan
+  nullValue: !!null Null
+  myDate: !!timestamp 2022-12-10

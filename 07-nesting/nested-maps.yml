@@ -1,0 +1,7 @@
+---
+Employee:
+  name:
+    firstName: Adam
+    lastName: Smith
+  age: 28
+  isPresent: true

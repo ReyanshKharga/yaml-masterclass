@@ -1,0 +1,14 @@
+name: Reyansh
+age: 24
+weight: 65.8
+country: India
+
+
+###### Equivalent JSON ######
+
+# {
+#   "name": "Reyansh",
+#   "age": 24,
+#   "weight": 65.8,
+#   "country": "India"
+# }
