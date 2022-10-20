@@ -29,10 +29,3 @@ The commonly used formats are YAML, JSON, CSV, and XML.
 ## Tools
 YAML Validator: https://onlineyamltools.com/validate-yaml
 YAML to JSON Converter: https://onlineyamltools.com/convert-yaml-to-json
-
-```
-$ which aws
-/usr/local/bin/aws 
-$ aws --version
-aws-cli/2.7.24 Python/3.8.8 Darwin/18.7.0 botocore/2.4.5
-```
